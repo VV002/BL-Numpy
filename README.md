@@ -1,2 +1,2 @@
 # BL-Numpy
-Python Script with basic functions of numpy
+Python Script for basic functions of numpy
